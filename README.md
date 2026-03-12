@@ -115,6 +115,36 @@ Componentes principais:
 - emotional trigger modeling
 
 ---
+---
+
+## Viral Thumbnail Engineering
+
+Sistema de análise estrutural de miniaturas virais no YouTube.
+
+O projeto explora como thumbnails de alto desempenho utilizam **arquitetura visual, arquétipos emocionais e estruturas narrativas** para capturar atenção e aumentar a taxa de clique.
+
+A análise é baseada em um modelo chamado **VDNA (Visual DNA)**, que decompõe thumbnails em múltiplas camadas estruturais.
+
+Componentes analisados:
+
+- composição cinematográfica
+- hierarquia visual
+- iluminação e atmosfera
+- símbolos narrativos
+- vetores emocionais
+
+O sistema também extrai **estruturas invisíveis dos títulos**, identificando padrões recorrentes que estimulam curiosidade e promessa narrativa.
+
+Após a análise, os padrões identificados são convertidos em **templates criativos reutilizáveis**, permitindo gerar novas thumbnails mantendo os mesmos vetores de atenção.
+
+Projeto:
+
+analise-de-miniaturas-virais-do-youtube
+
+
+
+
+
 
 ## Sales Page Reverse Engineering
 
