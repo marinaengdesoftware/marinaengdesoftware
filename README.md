@@ -26,6 +26,15 @@ Atualmente estou explorando sistemas que combinam:
 O objetivo é compreender **como estruturas narrativas, visuais e emocionais influenciam comportamento digital em escala**.
 
 ---
+## Análise Multimodal de Conteúdo Viral
+
+Linha de pesquisa dedicada à compreensão de como estruturas visuais, emocionais e narrativas influenciam comportamento digital.
+
+Projeto:
+
+analise-multimodal-conteudo-viral
+
+
 
 ## Arquitetura do Sistema de Crescimento
 
