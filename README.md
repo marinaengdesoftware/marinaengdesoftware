@@ -261,4 +261,6 @@ Isso inclui:
 
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinaengdesoftware&layout=compact)
 
+![GitHub streak](https://streak-stats.demolab.com/?user=marinaengdesoftware&theme=radical)
 
+🐍 Snake eating contributions
