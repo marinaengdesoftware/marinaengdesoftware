@@ -1,16 +1,71 @@
-## Hi there 👋
+# Marina de Alcantara Andrade
 
-<!--
-**marinaengdesoftware/marinaengdesoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenharia de crescimento orientada por dados.
 
-Here are some ideas to get you started:
+Construo sistemas para:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- análise de conteúdo viral
+- engenharia reversa de funis de vendas
+- automação de marketing
+- scraping e análise de dados
+- aplicação de LLMs em marketing
+
+---
+
+## Projetos Principais
+
+### Viral Pattern Analysis Engine
+
+Sistema para extração e análise de padrões virais em conteúdos multimodais.
+
+Tecnologias:
+
+- análise de frames
+- extração de movimento
+- análise semântica
+- engenharia emocional de conteúdo
+
+---
+
+### Engenharia Reversa de Páginas de Vendas
+
+Projeto de análise estrutural de páginas de vendas.
+
+Metodologia baseada em:
+
+- FAVE Framework
+- análise vetorial emocional
+- segmentação de público
+- coerência multimodal
+
+---
+
+### Marketing Automation Infrastructure
+
+Pipeline de marketing automatizado usando:
+
+- n8n
+- APIs de dados
+- scraping
+- automação de aquisição
+
+---
+
+## Tecnologias
+
+- Python
+- Web Scraping
+- LLMs
+- Data Engineering
+- Marketing Systems
+- Automação
+
+
+
+1. engenharia-reversa-paginas-vendas
+2. copy-insights-ai-showcase
+3. viral-pattern-analysis-engine
+4. case-youtube-crescimento-organico-croche
+5. case-instagram-crescimento-organico-croche
+6. marketing-contingencia-n8n-firecrawl-docker
+   
