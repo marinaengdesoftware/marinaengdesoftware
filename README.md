@@ -63,9 +63,8 @@ Pipeline de marketing automatizado usando:
 
 
 1. engenharia-reversa-paginas-vendas
-2. copy-insights-ai-showcase
-3. viral-pattern-analysis-engine
-4. case-youtube-crescimento-organico-croche
-5. case-instagram-crescimento-organico-croche
-6. marketing-contingencia-n8n-firecrawl-docker
+2. viral-pattern-analysis-engine
+3. case-youtube-crescimento-organico-croche
+4. case-instagram-crescimento-organico-croche
+5. marketing-contingencia-n8n-firecrawl-docker
    
