@@ -29,9 +29,7 @@ O objetivo é compreender **como estruturas narrativas, visuais e emocionais inf
 
 ## Arquitetura do Sistema de Crescimento
 
-<p align="center">
-  <img src="assets/growth-system-architecture.png" width="800">
-</p>
+<img src="https://raw.githubusercontent.com/marinaengdesoftware/marinaengdesoftware/main/assets/growth-system-architecture.png">
 
 # Systems Architecture
 
