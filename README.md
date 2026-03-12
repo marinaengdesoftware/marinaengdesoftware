@@ -1,6 +1,11 @@
 # Marina de Alcantara Andrade
 
-**Growth Engineering • Data Systems • AI Applied to Marketing**
+Growth Engineering • Data Systems • AI Applied to Marketing
+
+![Python](https://img.shields.io/badge/Python-Data%20Engineering-blue)
+![LLM](https://img.shields.io/badge/LLM-AI%20Systems-purple)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-Data%20Collection-green)
+![Automation](https://img.shields.io/badge/Automation-Growth%20Systems-orange)
 
 Construo sistemas que analisam comportamento digital e extraem padrões de crescimento para criar **motores de aquisição e conversão escaláveis**.
 
