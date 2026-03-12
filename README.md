@@ -263,4 +263,4 @@ Isso inclui:
 
 ![GitHub streak](https://streak-stats.demolab.com/?user=marinaengdesoftware&theme=radical)
 
-🐍 Snake eating contributions
+
