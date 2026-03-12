@@ -26,60 +26,58 @@ Atualmente estou explorando sistemas que combinam:
 O objetivo é compreender **como estruturas narrativas, visuais e emocionais influenciam comportamento digital em escala**.
 
 ---
-## Análise Multimodal de Conteúdo Viral
 
-Linha de pesquisa dedicada à compreensão de como estruturas visuais, emocionais e narrativas influenciam comportamento digital.
+# Análise Multimodal de Conteúdo Viral
 
-Projeto:
+Linha de pesquisa dedicada à compreensão de como **estruturas visuais, emocionais e narrativas influenciam comportamento digital**.
 
+Repositório:
 analise-multimodal-conteudo-viral
 
+---
 
-
-## Arquitetura do Sistema de Crescimento
+# Arquitetura do Sistema de Crescimento
 
 <p align="center">
   <img src="growth-system-architecture2.png" width="800">
 </p>
 
-# Systems Architecture
+Os projetos seguem uma arquitetura voltada para **descoberta, análise e engenharia de crescimento digital**.
+---
 
-Os projetos que desenvolvo seguem uma arquitetura voltada para **descoberta, análise e engenharia de crescimento digital**.
 Data Sources
 │
 ├── Social Media
 ├── Landing Pages
 └── Ads
 
-    ↓
+↓
 Radar Layer
 │
 ├── Viral Content Discovery
 ├── Relevance Filtering
 └── Performance Gate
 
-    ↓
-
+↓
 Extraction Layer
 │
 ├── Frame Extraction
 ├── Web Scraping
 └── Semantic Parsing
 
-    ↓
+↓
 Analysis Layer
 │
 ├── Viral Triggers
 ├── Emotional Vectors
 └── Conversion Structures
 
-    ↓
+↓
 Growth Systems
 │
 ├── Creative Engineering
 ├── Funnel Modeling
 └── Marketing Automation
-
 
 
 Essa arquitetura permite transformar **dados de comportamento digital em estratégias replicáveis de crescimento**.
@@ -124,15 +122,14 @@ Componentes principais:
 - emotional trigger modeling
 
 ---
----
 
 ## Viral Thumbnail Engineering
 
-Sistema de análise estrutural de miniaturas virais no YouTube.
+Sistema de análise estrutural de **miniaturas virais no YouTube**.
 
 O projeto explora como thumbnails de alto desempenho utilizam **arquitetura visual, arquétipos emocionais e estruturas narrativas** para capturar atenção e aumentar a taxa de clique.
 
-A análise é baseada em um modelo chamado **VDNA (Visual DNA)**, que decompõe thumbnails em múltiplas camadas estruturais.
+A análise é baseada em um modelo chamado **VDNA (Visual DNA)**.
 
 Componentes analisados:
 
@@ -144,17 +141,17 @@ Componentes analisados:
 
 O sistema também extrai **estruturas invisíveis dos títulos**, identificando padrões recorrentes que estimulam curiosidade e promessa narrativa.
 
-Após a análise, os padrões identificados são convertidos em **templates criativos reutilizáveis**, permitindo gerar novas thumbnails mantendo os mesmos vetores de atenção.
+Após a análise, os padrões identificados são convertidos em **templates criativos reutilizáveis**.
 
-Projeto:
-
+Repositório:
 analise-de-miniaturas-virais-do-youtube
 
 
+---
 
 ## Sales Page Reverse Engineering
 
-Projeto de análise estrutural de páginas de vendas de alto ticket.
+Projeto de análise estrutural de **páginas de vendas de alto ticket**.
 
 Utiliza o **Framework FAVE** para decompor elementos como:
 
@@ -164,12 +161,14 @@ Utiliza o **Framework FAVE** para decompor elementos como:
 - coerência multimodal entre anúncio e página
 
 Objetivo: entender **como estruturas emocionais e narrativas influenciam conversão**.
-O FAVE também é utilizado em sistemas de análise de conteúdo viral, como no projeto de engenharia de miniaturas do YouTube.
+
+O FAVE também é utilizado em sistemas de análise de conteúdo viral.
+
 ---
 
 ## Marketing Automation Infrastructure
 
-Infraestrutura automatizada para aquisição de tráfego e análise de dados.
+Infraestrutura automatizada para **aquisição de tráfego e análise de dados**.
 
 Arquitetura baseada em:
 
@@ -190,6 +189,7 @@ Análise de padrões de retenção e gatilhos virais em conteúdo educativo.
 Projeto:
 case-youtube-crescimento-organico-croche
 
+
 ---
 
 ## Instagram Organic Growth
@@ -199,29 +199,28 @@ Estudo de consistência visual, narrativa e gatilhos emocionais aplicados a cont
 Projeto:
 case-instagram-crescimento-organico-croche
 
-
 ---
 
 # Frameworks
 
 ## FAVE Framework
 
-Framework utilizado para análise vetorial emocional aplicada a marketing e conteúdo viral.
+Framework utilizado para **análise vetorial emocional aplicada a marketing e conteúdo viral**.
 
 Componentes:
+F — Visual DNA
+A — Narrative Archetypes
+V — Emotional Vector
+E — Multimodal Coherence
 
-F — Visual DNA  
-A — Narrative Archetypes  
-V — Emotional Vector  
-E — Multimodal Coherence  
 
-Esse framework permite analisar como elementos visuais, emocionais e narrativos influenciam comportamento do usuário.
+Esse framework permite analisar como **elementos visuais, emocionais e narrativos influenciam comportamento do usuário**.
 
 ---
 
 # Technology Stack
 
-Principais tecnologias utilizadas nos projetos:
+Principais tecnologias utilizadas:
 
 - Python
 - Web Scraping
@@ -239,7 +238,7 @@ Principais tecnologias utilizadas nos projetos:
 2. viral-pattern-analysis-engine  
 3. case-youtube-crescimento-organico-croche  
 4. case-instagram-crescimento-organico-croche  
-5. marketing-contingencia-n8n-firecrawl-docker
+5. marketing-contingencia-n8n-firecrawl-docker  
 
 ---
 
@@ -254,9 +253,12 @@ Isso inclui:
 - modelagem emocional aplicada a marketing
 - automação baseada em dados
 
+---
 
-## GitHub Stats
+# GitHub Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=marinaengdesoftware&show_icons=true&theme=radical)
 
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinaengdesoftware&layout=compact)
+
+
