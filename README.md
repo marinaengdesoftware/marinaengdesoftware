@@ -211,3 +211,10 @@ Isso inclui:
 - engenharia de sistemas de aquisição
 - modelagem emocional aplicada a marketing
 - automação baseada em dados
+
+
+## GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=marinaengdesoftware&show_icons=true&theme=radical)
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinaengdesoftware&layout=compact)
