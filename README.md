@@ -143,9 +143,6 @@ analise-de-miniaturas-virais-do-youtube
 
 
 
-
-
-
 ## Sales Page Reverse Engineering
 
 Projeto de análise estrutural de páginas de vendas de alto ticket.
@@ -158,7 +155,7 @@ Utiliza o **Framework FAVE** para decompor elementos como:
 - coerência multimodal entre anúncio e página
 
 Objetivo: entender **como estruturas emocionais e narrativas influenciam conversão**.
-
+O FAVE também é utilizado em sistemas de análise de conteúdo viral, como no projeto de engenharia de miniaturas do YouTube.
 ---
 
 ## Marketing Automation Infrastructure
