@@ -27,6 +27,10 @@ O objetivo é compreender **como estruturas narrativas, visuais e emocionais inf
 
 ---
 
+## Growth System Architecture
+
+![Growth System Architecture](assets/growth-system-architecture.png)
+
 # Systems Architecture
 
 Os projetos que desenvolvo seguem uma arquitetura voltada para **descoberta, análise e engenharia de crescimento digital**.
